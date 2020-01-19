@@ -1,0 +1,12 @@
+Entities: 
+    activities
+        name
+        ID
+        
+
+    records
+        start 
+        end
+        activityId
+
+

@@ -1,0 +1,17 @@
+body {
+    background: pink;
+}
+div {
+    color: green
+}
+div>input {
+    float: right;
+    }
+
+body>div {
+    width:500px
+}
+
+div>div {
+    padding:10px
+}
